@@ -30,7 +30,7 @@ The virtual assistant will use the device's camera or process a specified image 
 Use the command or trigger phrase to initiate object detection.
 The assistant will analyze the input image or video stream and provide information about detected objects.
 
-###Automated Email Generation:
+### Automated Email Generation:
 Provide input or specify triggers to compose and send emails automatically.
 
 ### Playing Music on YouTube:
